@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#141414",
+    "--editor-surface": "#0a0a0a",
+    "--foreground": "#e1e1e1",
+    "--card": "#111111",
+    "--card-foreground": "#e1e1e1",
+    "--popover": "#111111",
+    "--popover-foreground": "#e1e1e1",
+    "--primary": "#7aa2f7",
+    "--primary-foreground": "#0a0a0a",
+    "--secondary": "#242424",
+    "--secondary-foreground": "#e1e1e1",
+    "--muted": "#242424",
+    "--muted-foreground": "#6c6c6c",
+    "--accent": "#242424",
+    "--accent-foreground": "#e1e1e1",
+    "--border": "#242424",
+    "--input": "#242424",
+    "--ring": "#7aa2f7",
+    "--chart-1": "#7aa2f7",
+    "--chart-2": "#9ece6a",
+    "--chart-3": "#bb9af7",
+    "--chart-4": "#e0af68",
+    "--chart-5": "#f7768e",
+    "--sidebar": "#0c0c0c",
+    "--sidebar-foreground": "#c8c8c8",
+    "--sidebar-primary": "#7aa2f7",
+    "--sidebar-primary-foreground": "#0a0a0a",
+    "--sidebar-accent": "#242424",
+    "--sidebar-accent-foreground": "#e1e1e1",
+    "--sidebar-border": "#242424",
+    "--sidebar-ring": "#7aa2f7",
+    "--worktree-sidebar": "#0c0c0c",
+    "--worktree-sidebar-foreground": "#c8c8c8",
+    "--worktree-sidebar-accent": "#242424",
+    "--worktree-sidebar-accent-foreground": "#e1e1e1",
+    "--worktree-sidebar-border": "#242424",
+    "--worktree-sidebar-ring": "#7aa2f7"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#6c6c6c",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#9ece6a"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "constant.character"
+      ],
+      "settings": {
+        "foreground": "#ff9e64"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#9d7cd8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator",
+        "punctuation.accessor"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#7aa2f7"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.class",
+        "support.class",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#1abc9c"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "meta.definition.variable"
+      ],
+      "settings": {
+        "foreground": "#e1e1e1"
+      }
+    },
+    {
+      "scope": [
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#e0af68"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property",
+        "meta.object-literal.key"
+      ],
+      "settings": {
+        "foreground": "#73daca"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#e0af68"
+      }
+    },
+    {
+      "scope": [
+        "markup.heading"
+      ],
+      "settings": {
+        "foreground": "#7aa2f7",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "markup.inserted"
+      ],
+      "settings": {
+        "foreground": "#9ece6a"
+      }
+    },
+    {
+      "scope": [
+        "markup.deleted",
+        "invalid"
+      ],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    }
+  ]
+}
