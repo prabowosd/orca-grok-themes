@@ -4,8 +4,9 @@
   "id": "grok-themes",
   "publisher": "prabowosd",
   "name": "Grok Themes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Grok Night and Grok Day app and terminal themes, using the GrokNight palette from xai-org/grok-build.",
+  "license": "MIT",
   "repository": "https://github.com/prabowosd/orca-grok-themes",
   "engines": {
     "orca": ">=1.4.245"

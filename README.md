@@ -8,7 +8,7 @@ The palette comes from the GrokNight and GrokDay themes in xai-org/grok-build, t
 
 Requires Orca 1.4.245 or newer.
 
-1. Open **Settings > Plugins** and add a plugin from Git: `https://github.com/prabowosd/orca-grok-themes#v1.0.1` (Orca needs a tag or commit pin)
+1. Open **Settings > Plugins** and add a plugin from Git: `https://github.com/prabowosd/orca-grok-themes#v1.0.2` (Orca needs a tag or commit pin)
 2. Pick **Grok Night** (or **Grok Day**) as the app theme.
 3. Pick **Grok Night** (or **Grok Day**) as the terminal theme.
 
