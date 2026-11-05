@@ -14,6 +14,10 @@ Requires Orca 1.4.245 or newer.
 
 For local development, clone the repo and add the folder as a development plugin.
 
+## Write-up
+
+How the plugin is built and how its contrast measures: [Grok Night and Grok Day: a data-only theme plugin for Orca](https://sdp.im/blog/grok-night-and-grok-day-a-data-only-theme-plugin-for-orca).
+
 ## Palette
 
 | Role | Night | Day |
